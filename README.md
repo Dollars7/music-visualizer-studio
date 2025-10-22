@@ -80,7 +80,7 @@ npm run build
 
 ## 🗺 Roadmap
 
-### Phase 1: MVP (Current)
+### Phase 1: MVP 
 - [x] Project setup and architecture
 - [x] Basic audio upload and playback
 - [ ] Core visualization engine
